@@ -1,0 +1,32 @@
+body{
+		background: violet;
+	}
+.primer {
+		color:red;
+		
+	}
+.Item {
+	font-size: 40px
+	}
+h1,h2,li {
+		color: blue;
+	}
+p.alfa{
+		color:green;
+	}
+em.alfa{ 
+		color:red;
+	}	
+ol li.item{
+		color: white;
+		}
+.lista2 .item{
+		color: black;font-size:60px;
+		}
+		
+.lista1 .item{
+		color: red;font-size:80px;
+		}
+.items {
+		background: green
+		}

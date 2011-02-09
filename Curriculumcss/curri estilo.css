@@ -1,0 +1,34 @@
+body {
+	background:#FFFFFF; border: 2px solid blue; border: 5px solid #FF0000; 
+}
+h1,h2{
+	color:#04BF30;
+	}
+em { 
+	font-size: 18px;
+	}
+p.letra{
+	color: #04B45F;
+	font-weight:bold;
+	text-align: center;
+	font-size: 21px;
+	}
+div.linea {
+			background:#04B45F; width:100%; height: 8px; color:blue;
+		}
+div.datos {
+			padding-left: 20px;
+		}
+div .datosA strong {
+			font-size: 22px;
+			}
+p.titulo {
+			font-size: 27px;
+			text-align: center;
+			font-weight:bold;
+			color:white;
+			background: #088A4B
+		}
+		
+		
+		
