@@ -5,7 +5,7 @@
 
 	<h1> <center> Curriculum Vitae </center> </h1>
 		<h2> <center> Julia Gabellone</center> </h2>
-       <a style="color:white" href= "file:///home/juliagabellone/Documents/Links/links"> <---Atras. </a>
+       <a style="color:white" href= "../links"> <---Atras. </a>
 
 		<center><img src="julia.jpg"/> </center>
 			<p><strong> Nombre y apellido: </strong> Julia Gabellone </p>
