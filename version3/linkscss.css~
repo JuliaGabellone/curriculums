@@ -1,0 +1,34 @@
+div.links {
+		width: 30%; float: left; height:100%;border:5px solid green; margin-right: 5px; background: url (vinilo.gif);
+		}
+div.iframe {
+     width: 50%; height: 100%; aling: right; border 10px;
+    }
+
+
+
+<div style="color:white; background:#FF0000; width: 30%; float:left; height:40%;border:5px solid green; margin-right: 5px"> 
+	   HOLA 1
+	</div>
+
+
+adding-left: 20px; background: green; width:20%; height: 60px; float: left;height:40%;border:5px solid green; margin-right: 5px ; color:blue; color:red
+
+
+
+
+
+
+<div align="center">
+<iframe name="prueba3" src="iframe_content.html" width="400" height="300" marginwidth="50" marginheight="50" frameborder="0">
+tu navegador no soporta iframes
+</iframe>
+</div>
+
+
+
+
+  <div class="iframe">
+	<iframe name="prueba2" src="Curriculumcss/Curriculum.html" >
+	</iframe>
+      </div>
